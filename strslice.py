@@ -1,5 +1,5 @@
-str = "Python"
-print(str[-1:-7:-1])
-print(str[1:5:1])
-for i in str:
+name = "Python"
+print(name[-1:-7:-1])
+print(name[0:5:2])
+for i in name:
     print(i)
